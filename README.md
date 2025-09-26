@@ -14,7 +14,7 @@ No non-standard hardware or customized software is required.
    - `I_reg.mat`: Registered complex-valued OCT data (200 × 512 × 4000, z × x × t). The repeated B-scans were flattened along the IS/OS band.
    - OCT recording: 4000 repeated B-scans captured at a 10 kHz frame rate.
    - Green flash: 1 ms, 340 μJ; UV flash: 1 ms, 112 μJ.
-   - Timing: pre-stimulus time was 10.04 ms (~100 frames), the interval between adjacent flashes was 100 ms.
+   - Timing: pre-stimulus time was 10.04 ms (~100 frames), and the interval between adjacent flashes was 100 ms.
 3. **LICENSE**: License details.
 4. **README**: This document.
 
