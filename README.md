@@ -23,7 +23,7 @@ No non-standard hardware or customized software is required.
 2. Performance
    - On macOS with an Apple M1 chip, the signal extraction takes ~100 seconds (excluding data download time).
 3. Output
-   - The ORG signal will be saved in "analysis" and "figures" folders within the dataset directory.
+   - The ORG signal will be saved in "analysis" and "figure" folders within the dataset directory.
 
 ## Reference
 https://www.biorxiv.org/content/10.1101/2025.04.02.646910v1
