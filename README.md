@@ -26,7 +26,7 @@ No non-standard hardware or customized software is required.
    - The ORG signal will be saved in "analysis" and "figure" folders within the dataset directory.
 
 ## Reference
-https://www.biorxiv.org/content/10.1101/2025.04.02.646910v1
+https://www.nature.com/articles/s41467-025-65759-z
 
 ## Contact Information
 **Huakun Li**
